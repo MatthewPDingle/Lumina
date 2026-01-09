@@ -52,8 +52,13 @@ python3 -m http.server 8080
 
 ## Screenshots
 
-![Flow Field](https://via.placeholder.com/400x250?text=Flow+Field)
-![Gravity Well](https://via.placeholder.com/400x250?text=Gravity+Well)
+| Flow Field | Gravity Well |
+|:---:|:---:|
+| ![Flow Field](screenshots/flow-field.png) | ![Gravity Well](screenshots/gravity-well.png) |
+
+| Aurora | Constellation |
+|:---:|:---:|
+| ![Aurora](screenshots/aurora.png) | ![Constellation](screenshots/constellation.png) |
 
 ## License
 
